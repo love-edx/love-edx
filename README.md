@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @love-edx
 - 👀 I’m interested in Nodejs & MongoDb
-- 🌱 I’m currently learning Advance Nodejs with Blockchain technology.
+- 🌱 I’m currently learning Nodejs & Blockchain.
 - 💞️ I’m looking to collaborate on Nodejs & Angular.
 - 📫 How to reach me l.tyagi@edexa.team
 - 👀 Open to learn JS.
